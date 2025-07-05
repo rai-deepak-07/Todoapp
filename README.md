@@ -26,20 +26,20 @@
 ![TodoApp](https://rai123.pythonanywhere.com/media/portfolio/project/TodoApp/TodoApp_01.png.png) <!-- Replace with actual image or remove -->
 
 ## 📁 Folder Structure
-Todoapp/
-├── public/
-│   └── index.html
-├── src/
-│   ├── components/
-│   │   ├── Header.js
-│   │   ├── TodoItem.js
-│   │   ├── TodoList.js
-│   │   └── AddTodo.js
-│   ├── App.js
-│   └── index.js
-├── .gitignore
-├── package.json
-└── README.md
+Todoapp/  
+├── public/  
+│   └── index.html  
+├── src/  
+│   ├── components/  
+│   │   ├── Header.js  
+│   │   ├── TodoItem.js  
+│   │   ├── TodoList.js  
+│   │   └── AddTodo.js  
+│   ├── App.js  
+│   └── index.js  
+├── .gitignore  
+├── package.json  
+└── README.md  
 
 
 
